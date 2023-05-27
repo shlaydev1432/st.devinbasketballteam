@@ -1,0 +1,157 @@
+body {
+            background-color: blue;
+            color: rgb(255,215,0);
+            }
+        
+        #school_image {
+            width: 500px;
+            position: relative;
+            left: 620px;
+            border: double 5px;
+            }
+        
+        #school_info {
+            background-color: rgb(0,0,205);
+            font-size: 25px;
+            position: relative;
+            top: -50px;
+                }
+
+        #about_us {
+            width: 300px;
+            font-size: 20px;
+            position: relative;
+            top: -100px;
+            left: 50px;
+            }
+
+        #intro {
+            font-size: 25px;
+            position: relative;
+            margin-top: 75px;
+            }
+
+        .title {
+            text-align: center;
+            background-color: white;
+            position: relative;
+            height: 100px;
+            
+            }
+            
+        h1.title {
+            position: relative;
+            top: 40px;
+            font-size: 40px;
+        }
+            
+        .catchphrase {
+            text-align: center;
+        }
+        
+        .principal{
+            position: relative;
+            left: 250px;
+        }
+        
+        .address {
+             position: relative;
+           left: 600px;
+           top: -120px;
+
+        }
+        
+        .news {
+            position: relative;
+            left: 850px;
+            top: -240px;
+
+        }
+        
+        .calendar {
+            position: relative;
+            top: -200px;
+            left: 700px;
+        }
+        
+        h3.calendar {
+            position: relative;
+            left: 800px;
+        }
+        
+        .team {
+            position: relative;
+            top: 50px;
+            left: 200px;
+            width: 750px;
+            height: 450px;
+            font-size: 30px;
+        }
+        
+        img.team {
+            position: relative;
+            border: groove 10px rgb(255, 215, 0);
+            float: right;
+            z-index: -1;
+        }
+        
+        #p1 {
+            position: relative;
+            top: -300px;
+            left: -175px;
+        }
+        
+        #p2 {
+            font-size: 25px;
+            position: relative;
+            top: -430px;
+            left: 1000px;
+        }
+        
+        .team_info {
+            position: relative;
+            top: 250px;
+            text-align: center;
+        }
+        
+        #players {
+            font-size: 20px;
+            position: relative;
+            left: 800px;
+        }
+        
+        .coach {
+            position: relative;
+            font-size: 25px;
+            top: -280px;
+            left: -400px;
+        }
+        
+         .assistant_coach {
+            position: relative;
+            font-size: 25px;
+            top: -280px;
+            left: -400px;
+        }
+        
+        .awards {
+            position: relative;
+            font-size: 25px;
+            top: -500px;
+            left: 400px;
+        }
+        
+        #win{
+            border: groove 10px rgb(255, 215, 0);
+            position: relative;
+            left: 650px;
+        }
+        
+        #news {
+            text-align: center;
+        }
+        
+        #p3 {
+            font-size: 20px;
+            text-align: center;
+        }
